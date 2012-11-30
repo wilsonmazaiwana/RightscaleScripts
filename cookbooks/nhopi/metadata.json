@@ -1,0 +1,30 @@
+{
+  "attributes": {
+  },
+  "providing": {
+  },
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n",
+  "platforms": {
+  },
+  "version": "0.0.1",
+  "suggestions": {
+  },
+  "replacing": {
+  },
+  "name": "nhopi",
+  "license": "All rights reserved",
+  "maintainer": "Moshen ltd",
+  "recipes": {
+    "nhopi::default": "cooks amqp for php (and more stuff, other basic stuff)"
+  },
+  "conflicting": {
+  },
+  "recommendations": {
+  },
+  "description": "Installs/Configures nhopi",
+  "groupings": {
+  },
+  "dependencies": {
+  },
+  "maintainer_email": "wilson.mazaiwana@moshen.com"
+}
